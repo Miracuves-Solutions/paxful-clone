@@ -31,8 +31,8 @@ Most exchange scripts stop at "spot trading." This platform ships with the featu
 - **Matching Engine Performance** — 1M+ orders/sec matching engine with deterministic latency — same architecture Binance and Coinbase use for pro tiers
 - **Multi-Jurisdiction Compliance** — jurisdiction-aware KYC (Fiat-to-Crypto-NO-KYC, Crypto-to-Crypto, EU MiCA, US MSB) with same codebase
 - **Layer-2 Native** — Arbitrum, Optimism, Polygon, Base integrated out of the box — including bridges and gas optimization
-- **Cold-Wallet Treasury** — native copy-trading marketplace, grid bots, DCA bots, and arbitrage bots — Binance's fastest-growing revenue line
-- **Fiat On/Off-Ramps** — 80+ fiat on-ramps via SEPA, ACH, SWIFT, UPI, IMPS — same ramp providers Binance and Coinbase use
+- **Cold-Wallet Treasury** — 95%+ funds in cold storage with multi-sig withdrawals, hot-wallet auto-rebalancing, and real-time proof-of-reserves
+- **Copy-Trading & Bots** — native copy-trading marketplace, grid bots, DCA bots, and arbitrage bots — Binance's fastest-growing revenue line
 
 ## 📦 Core Features
 
